@@ -47,12 +47,12 @@ src/
 ---
 
 ## 📸 Screenshot
-
+![Calculator UI](screenshots/screenshot.png)
 
 ---
 
 ## 👤 Author
-**Dush Nadu**  
+**E.M.D.N.Ekanayaka**  
 Java Beginner | GUI Application Developer  
 
 ---
