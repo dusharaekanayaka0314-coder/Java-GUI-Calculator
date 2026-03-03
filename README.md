@@ -47,7 +47,8 @@ src/
 ---
 
 ## 📸 Screenshot
-![Calculator UI](screenshots/screenshot.png)
+## 📸 Screenshot
+![Calculator UI](Screenshot.png)
 
 ---
 
