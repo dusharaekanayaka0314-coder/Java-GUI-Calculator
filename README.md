@@ -59,7 +59,7 @@ Java Beginner | GUI Application Developer
 ---
 
 ## 🔗 Links
-- GitHub:  
+
 - LinkedIn: www.linkedin.com/in/dushara-ekanayaka-42a6a927a
 
 ---
